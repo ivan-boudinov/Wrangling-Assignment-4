@@ -2,7 +2,7 @@
 
 Reproduction of Reject Option based Classification (Kamiran, Karim and Zhang, 2012). Open `roc_fairness_pipeline.ipynb` and run all cells; it compares fairness and accuracy before and after ROC.
 
-## Data (put in a folder `datasets/`, set `DATA_DIR = "datasets/"` in the notebook)
+## Data 
 
 | File | Used for |
 |---|---|
