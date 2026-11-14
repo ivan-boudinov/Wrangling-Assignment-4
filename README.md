@@ -1,5 +1,3 @@
-# Wrangling-Assignment-4
-
 # ROC on Adult, German and COMPAS
 
 Reproduction of Reject Option based Classification (Kamiran, Karim and Zhang, 2012). Open `roc_fairness_pipeline.ipynb` and run all cells; it compares fairness and accuracy before and after ROC.
